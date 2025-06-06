@@ -1,4 +1,4 @@
-package common
+package govaluate
 
 type lexerStream struct {
 	source   []rune

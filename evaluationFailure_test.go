@@ -1,4 +1,4 @@
-package common
+package govaluate
 
 /*
   Tests to make sure evaluation fails in the expected ways.

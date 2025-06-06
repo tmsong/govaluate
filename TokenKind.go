@@ -1,4 +1,4 @@
-package common
+package govaluate
 
 /*
 	Represents all valid types of tokens that a token can be.

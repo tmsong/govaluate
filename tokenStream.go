@@ -1,4 +1,4 @@
-package common
+package govaluate
 
 type tokenStream struct {
 	tokens      []ExpressionToken
